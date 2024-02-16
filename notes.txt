@@ -1,0 +1,18 @@
+### Arrays
+
+## Techniques
+
+	# Sliding window
+	
+	# Two pointers
+	
+	# Traversing from the right
+	
+	# Sorting the array
+	
+	# Precomputation
+	
+	# Index as a hash key
+	
+	# Traversing the array more than once
+	
